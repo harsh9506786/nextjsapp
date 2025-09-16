@@ -3,7 +3,7 @@ import Link from "next/link";
 
 const Header = () => {
   return (
-    <header className="border-2 border-amber-100 flex justify-between">
+    <header className="border-2 border-purple-800 flex justify-between">
       <div className="text-4xl">Logo</div>
       <ul className="flex justify-around">
         <li>
